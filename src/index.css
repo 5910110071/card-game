@@ -1,9 +1,11 @@
-body {
-  margin: 0;
-  padding: 0;
-  font-family: sans-serif;
-}
+
 .card{
   text-align: center;
   color: cyan;
+}
+body {
+  background-image: url(https://cdn.pixabay.com/http://image.dek-d.com/24/2235146/105968885/2014/06/24/17/38/non-376543_960_720.jpg);
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
 }
